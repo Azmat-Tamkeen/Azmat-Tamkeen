@@ -28,3 +28,5 @@ https://img.shields.io/badge/coverage-95%25-orange
 ![License](https://img.shields.io/badge/License-MIT-blue)
 ![Python](https://img.shields.io/badge/Python-3.12-yellow)
 ![Status](https://img.shields.io/badge/Status-Active-success)
+https://img.shields.io/badge/build-passing-brightgreen?style=flat-square&logo=appveyor&logoColor=blue&logoSize=auto&label=healthiness&labelColor=abcdef&color=fedcba&cacheSeconds=3600
+
