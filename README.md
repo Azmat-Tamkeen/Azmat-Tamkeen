@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 ![Static Badge](https://img.shields.io/badge/:badgeContent)
 
 https://img.shields.io/badge/coverage-95%25-orange
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
