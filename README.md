@@ -27,5 +27,6 @@ Here are some ideas to get you started:
 ![License](https://img.shields.io/badge/License-MIT-blue)
 ![Python](https://img.shields.io/badge/Python-3.12-yellow)
 ![Status](https://img.shields.io/badge/Status-Active-success)
+
 ![Static Badge](https://img.shields.io/badge/build-passing-brightgreen?style=flat-square&logo=appveyor&logoColor=blue&logoSize=auto&label=healthiness&labelColor=abcdef&color=fedcba&cacheSeconds=3600)
 
