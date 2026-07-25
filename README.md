@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 ![Static Badge](https://img.shields.io/badge/:badgeContent)
 
-https://img.shields.io/badge/coverage-95%25-orange
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
@@ -28,5 +27,5 @@ https://img.shields.io/badge/coverage-95%25-orange
 ![License](https://img.shields.io/badge/License-MIT-blue)
 ![Python](https://img.shields.io/badge/Python-3.12-yellow)
 ![Status](https://img.shields.io/badge/Status-Active-success)
-https://img.shields.io/badge/build-passing-brightgreen?style=flat-square&logo=appveyor&logoColor=blue&logoSize=auto&label=healthiness&labelColor=abcdef&color=fedcba&cacheSeconds=3600
+![Static Badge](https://img.shields.io/badge/build-passing-brightgreen?style=flat-square&logo=appveyor&logoColor=blue&logoSize=auto&label=healthiness&labelColor=abcdef&color=fedcba&cacheSeconds=3600)
 
