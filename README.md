@@ -39,13 +39,6 @@ Aspiring AI & Machine Learning Engineer | Python Developer | Tech Enthusiast
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Azmat-Tamkeen&theme=tokyo-night"/>
-</p>
-
----
 
 ## 🌐 Connect with Me
 
